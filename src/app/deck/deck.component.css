@@ -2,4 +2,8 @@
   height: 100%;
   width: 100%;
   overflow: hidden;
+  -webkit-perspective: 600px;
+          perspective: 600px;
+  -webkit-perspective-origin: 50% 40%;
+          perspective-origin: 50% 40%;
 }
